@@ -1,0 +1,21 @@
+button {
+    position: absolute;
+    top: 58%;
+    left: 49%;
+    transform: translate(-50%, -50%);
+    width: 160px;
+    height: 45px;
+    background-color: transparent;
+    border: 1px solid #fff;
+    color: #fff;
+    font-size: 10px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: #fff;
+    color: #000;
+}
